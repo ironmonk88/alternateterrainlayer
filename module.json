@@ -2,7 +2,7 @@
   "name": "alternateterrainlayer",
   "title": "Alternate Terrain Layer",
   "description": "A base module based off Terrain Layer, that just changes a few things to make it look nicer",
-  "authors": [{"name":"Will Saunders","email":"willsaunders1014@gmail.com" },{"name":"Michael Weisner" }],
+  "authors": [{"name":"Michael Weisner" }],
   "version": "1.0.0",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion":"0.7.5",
